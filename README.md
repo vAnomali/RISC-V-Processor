@@ -54,7 +54,7 @@ The single-cycle processor consists of the following key components:
 - Logical unit, shifter, and sign extension modules were modeled behaviorally using Verilog operators.
 
 ### Multiplication and Division
-- Algorithms for multiplication and division were carefully selected and implemented, ensuring efficient operation.
+- Algorithms for multiplication and division were carefully selected and implemented, ensuring efficient operation, and both unsigned and signed capabilities.
 
 ---
 
