@@ -1,5 +1,10 @@
 # Single-Cycle RISC-V Processor
 
+## Block Diagram
+The block diagram below illustrates the design of the single-cycle RISC-V processor:
+
+![RISC-V Processor Block Diagram](RISC-V%20Processor%20Layout.PNG)
+
 ## Project Overview
 This repository contains the implementation of a single-cycle RISC-V processor, designed and developed as part of the Advanced Processor Systems course (ECE4612/5612). The project showcases a fully functional processor capable of executing a variety of instructions, including:
 
